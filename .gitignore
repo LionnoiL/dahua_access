@@ -1,0 +1,12 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+sdk_log/
+logs/
+out/
